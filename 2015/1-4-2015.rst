@@ -1,0 +1,102 @@
+Village Meeting 1-4-2015
+========================
+
+Agenda
+------
+
+- [x] The Houses for Sale 
+- [x] Financial Update
+- [x] Github for Documents 
+- [x] Schedule Operating Agreement Meeting
+- [x] Distribute Switching Over the Utilities 
+- [x] Decisions Between Meetings 
+- [x] Tool Share
+- [x] Lease Agreements
+- [x] Member Directory
+- [x] Potlucks
+- [x] Draft a Mission Statement
+
+Houses For Sale
+---------------
+
+Already been sold.
+
+Financial Update
+----------------
+
+We have ~$1000 in the bank and $2500 coming in to the bank.  We've already paid
+January's rent.
+
+**Bingham** will take rent to the bank.
+
+Github for Documents
+--------------------
+
+We'll start using Github as a place to store village documents, including
+meeting notes and any legal documents we draft.
+
+Schedule Meeting for Operating Agreement
+----------------------------------------
+
+We will devote the next several workdays to drafting an operating agreement
+for the LLC.
+
+Distribute the Utility Switches
+-------------------------------
+
+- **Aaron** will do Water.
+- **Tony** will do Electric and Cable.
+
+The Return of Aaron
+-------------------
+
+Aaron shall return and will be using some of Dandemonium's utilities.
+
+Decisions Between Meetings
+--------------------------
+
+How should we make decisions that can't wait for the next meeting?  
+
+We'll use the mailing for decisions between meetings.  Messages that require vote
+should have a subject line of the format: 
+
+  [VOTE] The topic of discussion - the expiration date
+
+For example:
+  
+  [VOTE] Potential new Member - 12-29-2014
+
+Members will have up until the expiration date to respond with their vote.  If
+they do not respond, they are counted as abstaining.  If objects are raised the
+topic can be either post poned until the next meeting or an emergency meeting
+can be called.
+
+Tool Share
+----------
+
+**Bingham** will contact Rick about renting the garage space and will work with the
+Glen Carter memorial tool share to set up the hackerspace and tool library.
+
+Member Directory
+----------------
+
+ -- Non - public -- 
+
+Lease Agreements
+----------------
+
+Went over the draft lease agreement, made revisions.
+
+**Tony** will write second draft.
+
+Events
+------
+
+Village will add a regular agenda item to discuss planning an event every
+month.
+
+Draft a Mission Statement
+-------------------------
+
+Post poned for a future meeting.
+
